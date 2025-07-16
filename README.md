@@ -47,17 +47,21 @@
 
 ## 📚 Work Experience
 
-**Frontend Developer**  
-Sharjah CX Commerce Cloud Consultancy (2022 - 2025)  
-SAP Commerce projelerinde CX Frontend Developer olarak görev aldım. UI geliştirme, Marketplace entegrasyonu ve responsive tasarım üzerine çalıştım.
+**Frontend Developer – Sharjah CX Commerce Cloud Consultancy**  
+*2022 – 2025*  
+- Delivered scalable frontend solutions for SAP Commerce projects  
+- Built reusable UI components using Angular & Spartacus  
+- Developed international marketplace features for large-scale clients
 
-**Frontend Developer**  
-NTT Data Business Solutions Turkey (2021 - 2022)  
-HTML, CSS, SASS, JavaScript ve Node.js kullanarak web sayfaları geliştirdim.
+**Frontend Developer – NTT Data Business Solutions Turkey**  
+*2021 – 2022*  
+- Developed responsive web applications using JavaScript, SASS, and Node.js  
+- Enhanced UI functionality with modern JS libraries and APIs
 
-**Web Designer**  
-Performans İletişim ve Teknoloji (2021 - 2022)  
-Figma kullanarak UI/UX odaklı modern web siteleri tasarladım.
+**Web Designer – Performans İletişim ve Teknoloji**  
+*2021 – 2022*  
+- Designed web interfaces with a user-centered approach in Figma  
+- Focused on clean design principles and usability
 
 ---
 
